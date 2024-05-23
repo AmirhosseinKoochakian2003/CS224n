@@ -1,6 +1,6 @@
 # CS224n: Natural Language Processing with Deep Learning - Coding Assignment Solutions
 
-This repository contains my solutions to the coding assignments of [CS224N: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1234/) course (Winter 2023).
+This repository contains my solutions to the coding assignments of [CS224N: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1234/) course offered by Stanford University (Winter 2023).
 
 ## Assignments
 
